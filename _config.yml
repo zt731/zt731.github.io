@@ -21,7 +21,7 @@ repository               : "t731.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   name             : "Tong Zhang"
   pronouns         : # example: "she/her"  
   bio              : "dog lover, avid reader, globe trotter"
