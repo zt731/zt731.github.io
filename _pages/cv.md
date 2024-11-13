@@ -11,54 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computational Science and Engineering, Georgia Institute of Technology, 2024
+* B.S. in Civil Engineering, University of Texas at Austin, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2023: Teaching Assistant
+  * Georgia Institute of Technology
+  * Duties includes: Assisted a class of 100+ students in CSE 6010 Computational Problem-Solving class with programming assignments in C language during biweekly workshop and weekly office hours
+  * Supervisor: Dr. Elizabeth Cherry
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2019, Spring 2020: Peer Tutor
+  * University of Texas at Austin
+  * Duties included: Held office hours twice a week to help students in elementary mechanics of fluids class with homework and test preparations
+  * Supervisor: Dr. Howard Liljestrand
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Programming: Python, C, MATLAB, SQL, Java, React Native, Julia, R
+* Tools: Solidworks, 3dsMax, Figma
+* Language: Proficient in English and Mandarin Chinese, Conversational in French
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Weekend Volunteer at PAWS Atlanta 2023/02 - 2024/05
